@@ -33,5 +33,7 @@ else
 	echo "Dedicated graphics not supported. Using system default renderer."
 	"$javaPath" -jar "$jarPath"
 fi
-clear
+if [ "$LAUNCHER_LOG" == "" ]; then
+	clear
+fi
 exit
