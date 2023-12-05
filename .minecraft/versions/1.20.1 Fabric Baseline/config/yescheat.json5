@@ -1,0 +1,9 @@
+{
+  antiRubberband: true,
+  uncapEnchants: false,
+  unblockChests: false,
+  distantContainers: true,
+  unlockMending: false,
+  distantBreaking: true,
+  villagersFollowEmeralds: false
+}

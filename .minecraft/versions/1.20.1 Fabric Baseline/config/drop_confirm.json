@@ -1,0 +1,6 @@
+{
+	"enabled": true,
+	"playSounds": true,
+	"confirmationResetDelay": 2.5,
+	"blacklistedItems": []
+}

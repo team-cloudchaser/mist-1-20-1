@@ -1,0 +1,11 @@
+{
+  "proxy-enabled": false,
+  "accounts": {
+    "": {
+      "IP:PORT": "127.0.0.1:10808",
+      "type": "SOCKS5",
+      "username": "",
+      "password": ""
+    }
+  }
+}

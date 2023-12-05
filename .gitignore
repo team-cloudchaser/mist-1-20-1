@@ -1,3 +1,30 @@
+# Global
+#.git
 *.swp
 .zcompdump
 build
+# Game-generated
+.minecraft/assets
+.minecraft/libraries
+cache
+crash-reports
+log4j2.xml
+logs
+natives-*-*
+saves
+screenshots
+# Mod loader-generated
+.bobby
+.fabric
+data
+moddata
+null
+# Mod-generated
+config/.puzzle_cache
+config/spark/activity.json
+config/spark/tmp
+.earlyloadingscreen-*
+modernfix
+ModTranslations
+stackdeobf_mappings
+XaeroW*

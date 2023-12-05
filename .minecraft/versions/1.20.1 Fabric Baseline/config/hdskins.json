@@ -1,0 +1,11 @@
+{
+  "root": {
+    "lastchosenfile": "null"
+  },
+  "filesystem": {
+    // When enable, will always use the native dialogue for opening and saving files
+    "usenativefilechooser": false,
+    // When enabled, will use the native dialogue for opening and saving files only when running inside a sandboxed environment (flatpaks),
+    "enablesandboxingcheck": true
+  }
+}
