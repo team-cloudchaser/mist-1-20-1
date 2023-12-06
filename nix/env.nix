@@ -19,9 +19,9 @@ pkgs.mkShell {
 		git
 		nano
 		curl
+		zip
 		gzip
 		zopfli
-		brotli
 		# Development dependencies
 	];
 	GIT_EDITOR = "${pkgs.nano}/bin/nano";
