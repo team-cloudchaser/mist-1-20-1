@@ -24,6 +24,7 @@ config/.puzzle_cache
 config/spark/activity.json
 config/spark/tmp
 .earlyloadingscreen-*
+irisUpdateInfo.json
 modernfix
 ModTranslations
 stackdeobf_mappings
