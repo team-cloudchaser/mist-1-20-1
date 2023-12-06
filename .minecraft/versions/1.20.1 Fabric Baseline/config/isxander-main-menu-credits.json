@@ -3,13 +3,17 @@
     "top_left": [],
     "top_right": [],
     "bottom_left": [],
-    "bottom_right": [],
+    "bottom_right": [
+      "Mist 2023m34a"
+    ],
     "mod_blacklist": []
   },
   "pause_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [],
+    "bottom_left": [
+      "Mist 2023m34a"
+    ],
     "bottom_right": [],
     "mod_blacklist": []
   }
