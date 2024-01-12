@@ -27,4 +27,5 @@ ls -1 .minecraft/versions | while IFS= read -r profile; do
 		fi
 	done
 done
+echob "Decontamination complete."
 exit
