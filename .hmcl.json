@@ -24,7 +24,7 @@
         "javaArgs": "",
         "minecraftArgs": "",
         "environmentVariables": "",
-        "maxMemory": 2048,
+        "maxMemory": 2560,
         "autoMemory": false,
         "permSize": "",
         "width": 1280,
