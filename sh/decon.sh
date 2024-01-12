@@ -4,6 +4,7 @@ genDate="#$(date '+%a %b %d %H:%M:%S %Z %Y')"
 cat conf/decon.conf | while IFS= read -r file; do
 	if [[ "$file" != "#"* ]] ; then
 		printf "Decontaminating \"$file\"... "
+		sed -zi "s/${genDate}\n//g" "$file"
 		echo "done."
 	fi
 done
