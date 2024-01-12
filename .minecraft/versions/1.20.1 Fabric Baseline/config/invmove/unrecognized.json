@@ -7,7 +7,8 @@
     "fr.atesab.xray.screen.XrayBlockModesConfig$PagedBlockMode$1": true,
     "fr.atesab.xray.screen.XrayConfigMenu": true,
     "fr.atesab.xray.screen.XrayMenu$2": true,
-    "net.minecraft.class_433": true
+    "net.minecraft.class_433": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
