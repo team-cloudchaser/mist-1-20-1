@@ -177,22 +177,6 @@
   },
   "libraries": [
     {
-      "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
-      "url": "https://maven.fabricmc.net/"
-    },
-    {
-      "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
-      "url": "https://maven.fabricmc.net/"
-    },
-    {
-      "name": "net.fabricmc:tiny-remapper:0.8.2",
-      "url": "https://maven.fabricmc.net/"
-    },
-    {
-      "name": "net.fabricmc:access-widener:2.1.0",
-      "url": "https://maven.fabricmc.net/"
-    },
-    {
       "name": "org.ow2.asm:asm:9.6",
       "url": "https://maven.fabricmc.net/"
     },
@@ -213,11 +197,15 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
+      "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
       "name": "net.fabricmc:intermediary:1.20.1",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.14.24",
+      "name": "net.fabricmc:fabric-loader:0.15.3",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -1550,6 +1538,11 @@
     }
   ],
   "downloads": {
+    "client": {
+      "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar",
+      "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
+      "size": 23028853
+    },
     "client_mappings": {
       "url": "https://piston-data.mojang.com/v1/objects/6c48521eed01fe2e8ecdadbd5ae348415f3c47da/client.txt",
       "sha1": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
@@ -1564,11 +1557,6 @@
       "url": "https://piston-data.mojang.com/v1/objects/84194a2f286ef7c14ed7ce0090dba59902951553/server.jar",
       "sha1": "84194a2f286ef7c14ed7ce0090dba59902951553",
       "size": 47791053
-    },
-    "client": {
-      "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar",
-      "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
-      "size": 23028853
     }
   },
   "logging": {
@@ -3099,6 +3087,11 @@
         }
       ],
       "downloads": {
+        "client": {
+          "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar",
+          "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
+          "size": 23028853
+        },
         "client_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/6c48521eed01fe2e8ecdadbd5ae348415f3c47da/client.txt",
           "sha1": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
@@ -3113,11 +3106,6 @@
           "url": "https://piston-data.mojang.com/v1/objects/84194a2f286ef7c14ed7ce0090dba59902951553/server.jar",
           "sha1": "84194a2f286ef7c14ed7ce0090dba59902951553",
           "size": 47791053
-        },
-        "client": {
-          "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar",
-          "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
-          "size": 23028853
         }
       },
       "logging": {
@@ -3139,27 +3127,11 @@
     },
     {
       "id": "fabric",
-      "version": "0.14.24",
+      "version": "0.15.3",
       "priority": 30000,
       "arguments": {},
       "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
       "libraries": [
-        {
-          "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
-          "url": "https://maven.fabricmc.net/"
-        },
-        {
-          "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
-          "url": "https://maven.fabricmc.net/"
-        },
-        {
-          "name": "net.fabricmc:tiny-remapper:0.8.2",
-          "url": "https://maven.fabricmc.net/"
-        },
-        {
-          "name": "net.fabricmc:access-widener:2.1.0",
-          "url": "https://maven.fabricmc.net/"
-        },
         {
           "name": "org.ow2.asm:asm:9.6",
           "url": "https://maven.fabricmc.net/"
@@ -3181,11 +3153,15 @@
           "url": "https://maven.fabricmc.net/"
         },
         {
+          "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+          "url": "https://maven.fabricmc.net/"
+        },
+        {
           "name": "net.fabricmc:intermediary:1.20.1",
           "url": "https://maven.fabricmc.net/"
         },
         {
-          "name": "net.fabricmc:fabric-loader:0.14.24",
+          "name": "net.fabricmc:fabric-loader:0.15.3",
           "url": "https://maven.fabricmc.net/"
         }
       ]
