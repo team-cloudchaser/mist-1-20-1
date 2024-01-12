@@ -21,8 +21,10 @@ moddata
 null
 # Mod-generated
 config/.puzzle_cache
+config/.puzzle_cache/*
 config/spark/activity.json
 config/spark/tmp
+config/roughlyenoughitems/hints.json
 .earlyloadingscreen-*
 irisUpdateInfo.json
 modernfix
