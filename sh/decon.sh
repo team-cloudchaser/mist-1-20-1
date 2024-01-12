@@ -1,10 +1,14 @@
 #!/bin/bash
 # Removes identifying info from certain auto-generated files. (decontamination)
-genDate="#$(date '+%a %b %d %H:%M:%S %Z %Y')"
 cat conf/decon.conf | while IFS= read -r file; do
-	if [[ "$file" != "#"* ]] ; then
+	if [[ "$file" != "#"* ]]; then
 		printf "Decontaminating \"$file\"... "
-		sed -zi "s/${genDate}\n//g" "$file"
+		cat "$file" | while IFS= read -r line; do
+			if [[ "$line" != "#Fri "* ]]; then
+				echo "$line" >> "${file}.tmp"
+			fi
+			mv -v "${file}.tmp" "${file}"
+		done
 		echo "done."
 	fi
 done
