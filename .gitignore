@@ -3,6 +3,9 @@
 *.swp
 .zcompdump
 build
+# Generated profiles
+1.20.1 Quilt Baseline
+1.20.1 Quilt Mainline
 # Game-generated
 .minecraft/assets
 .minecraft/libraries
