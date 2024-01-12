@@ -22,7 +22,7 @@ done
 echob "Running decontamination strategy 2."
 ls -1 .minecraft/versions | while IFS= read -r profile; do
 	cat conf/remove.conf | while IFS= read -r file; do
-		if [[ -f ".minecraft/versions/${profile}/${file}" ]]; then
+		if [[ -e ".minecraft/versions/${profile}/${file}" ]]; then
 			rm -rv ".minecraft/versions/${profile}/${file}"
 		fi
 	done
