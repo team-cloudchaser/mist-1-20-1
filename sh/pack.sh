@@ -33,3 +33,8 @@ zip -r9v build/mainline.zip \
 	".minecraft/versions/1.20.1 Fabric Mainline/config" \
 	".minecraft/versions/1.20.1 Fabric Mainline/1.20.1 Fabric Mainline.json" \
 	".minecraft/versions/1.20.1 Fabric Mainline/options.txt"
+echob "Bundling DashLoader caches..."
+zip -r9v build/baseline_dlc.zip \
+	".minecraft/versions/1.20.1 Fabric Baseline/dashloader-cache"
+zip -r9v build/mainline_dlc.zip \
+	".minecraft/versions/1.20.1 Fabric Mainline/dashloader-cache"
