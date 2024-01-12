@@ -1,11 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:spruce_trapdoor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:glass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:purple_stained_glass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:weathered_cut_copper_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
@@ -42,7 +37,7 @@
 			},
 			"favoriteKeybind": {
 				"keyCode": "key.keyboard.a",
-				"modifier": 0
+				"modifier": 4
 			},
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.f8",
