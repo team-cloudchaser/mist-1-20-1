@@ -26,6 +26,7 @@ null
 */config/spark/tmp
 */config/roughlyenoughitems/hints.json
 .earlyloadingscreen-*
+dashloader-cache
 irisUpdateInfo.json
 modernfix
 ModTranslations
