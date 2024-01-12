@@ -1,1 +1,9 @@
-../../1.20.1 Fabric Baseline/config/dashloader.json
+{
+  "options": {},
+  "compression": 4,
+  "maxCaches": 5,
+  "customSplashLines": [],
+  "addDefaultSplashLines": true,
+  "singleThreadedReading": false,
+  "showCachingToast": true
+}
