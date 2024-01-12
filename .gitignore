@@ -13,6 +13,7 @@ logs
 natives-*-*
 saves
 screenshots
+usercache.json
 # Mod loader-generated
 .bobby
 .fabric
@@ -22,6 +23,7 @@ null
 # Mod-generated
 **/config/.puzzle_cache
 **/config/.puzzle_cache/*
+**/config/jade/usernamecache.json
 **/config/spark/activity.json
 **/config/spark/tmp
 **/config/roughlyenoughitems/hints.json
