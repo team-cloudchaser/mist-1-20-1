@@ -1,0 +1,37 @@
+{
+  "server": {
+    // A list of dimensions ids that do not have an atmosphere, and thus shouldn't allow pegasi to fly.
+    "dimensionswithoutatmosphere": [],
+    // A whitelist of races permitted on the server,
+    // Races added to this list can be used by anyone,,
+    // whilst any ones left off are not permitted,
+    // An empty list disables whitelisting entirely.,
+    "specieswhitelist": [],
+    // A list of entity types that are immune to the want it need it spell's effects,
+    "wantitneeditentityexcludelist": [
+      "minecraft:creeper"
+    ],
+    // Allows use of the /tribe, /unicopia disguise, and /unicopia gravity commands,
+    "enablecheats": false
+  },
+  "client": {
+    // The default preferred race
+    // This is the race a client requests when first joining a game
+    // It is the default used both when Mine Little Pony is not installed
+    // and when they respond with a human race.
+    "preferredrace": "unicopia:alicorn",
+    // If true Mine Little Pony will not be considered when determining the race to use,
+    // The result will always be what is set by this config file.,
+    "ignoreminelp": false,
+    // The page of abilities currently visible in the HUD. You can change this in-game using the PG_UP and PG_DWN keys (configurable),
+    "hudactivepage": 0
+  },
+  "compatibility": {
+    // Removes butterflies from spawning in your world
+    // Turn this ON if you have another mod that adds butterflies.
+    "disablebutterflyspawning": false,
+    // Disables this mod's built in fix for making sea plants waterlogged,
+    // Turn this ON if you're using another mod that does something similar of if you encounter copatibility issues with other mods.,
+    "disablewaterplantsfix": false
+  }
+}

@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","file/High Contrast Pottery 1.0.0.zip","file/sus sand 1.2.zip","minecraft:supporteatinganimation","armorchroma:alternative-icons","continuity:default","file/Glassentials_CTM.zip","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","file/High Contrast Pottery 1.0.0.zip","file/sus sand 1.2.zip","minecraft:supporteatinganimation","armorchroma:alternative-icons","continuity:default","file/Glassentials_CTM.zip","continuity:glass_pane_culling_fix","seasons:seasonal_lush_caves"]
 incompatibleResourcePacks:["file/Yaju Sounds.zip","file/High Contrast Pottery 1.0.0.zip","armorchroma:alternative-icons","file/Glassentials_CTM.zip"]
 lastServer:visit.uncensoredlibrary.com
 lang:en_gb
@@ -138,6 +138,9 @@ key_key.deathlog.death_screen:key.keyboard.unknown
 key_key.drop_confirm.toggle:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.end
+key_key.extraalchemy.magnetism_toggle:key.keyboard.n
+key_key.extraalchemy.potion_bag_mode:key.keyboard.k
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.unknown
@@ -165,6 +168,11 @@ key_key.mousewheelie.restock_modifier:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.stepup.toggle:key.keyboard.p
+key_key.unicopia.hud_page_dn:key.keyboard.page.down
+key_key.unicopia.hud_page_up:key.keyboard.page.up
+key_key.unicopia.primary:key.keyboard.r
+key_key.unicopia.secondary:key.keyboard.g
+key_key.unicopia.tertiary:key.keyboard.v
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
