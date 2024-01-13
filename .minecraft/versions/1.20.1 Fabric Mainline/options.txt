@@ -163,6 +163,7 @@ key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
 key_key.mousewheelie.deposit_modifier:key.keyboard.unknown
 key_key.mousewheelie.restock_modifier:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.stepup.toggle:key.keyboard.p
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
