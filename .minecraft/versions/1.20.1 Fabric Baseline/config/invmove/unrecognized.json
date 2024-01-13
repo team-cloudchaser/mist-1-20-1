@@ -8,7 +8,8 @@
     "fr.atesab.xray.screen.XrayConfigMenu": true,
     "fr.atesab.xray.screen.XrayMenu$2": true,
     "net.minecraft.class_433": true,
-    "com.minenash.seamless_loading_screen.FadeScreen": true
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "com.minelittlepony.unicopia.client.gui.DismissSpellScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,

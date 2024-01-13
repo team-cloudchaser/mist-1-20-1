@@ -65,6 +65,81 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": true,
       "spawnBreakingLeaves": true
+    },
+    "promenade:palm_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:flowering_zap_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:cotton_sakura_blossoms": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:blush_sakura_blossoms": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:fulvous_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:vermilion_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:zap_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:sour_apple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:sap_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:green_apple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:mikado_maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:mango_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "promenade:snowy_spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "unicopia:sweet_apple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],
