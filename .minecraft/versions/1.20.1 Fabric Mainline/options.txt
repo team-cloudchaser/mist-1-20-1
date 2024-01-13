@@ -138,9 +138,9 @@ key_key.deathlog.death_screen:key.keyboard.unknown
 key_key.drop_confirm.toggle:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.end
-key_key.extraalchemy.magnetism_toggle:key.keyboard.n
-key_key.extraalchemy.potion_bag_mode:key.keyboard.k
-key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
+key_key.extraalchemy.magnetism_toggle:key.keyboard.keypad.multiply
+key_key.extraalchemy.potion_bag_mode:key.keyboard.keypad.divide
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.keypad.subtract
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.unknown
@@ -170,9 +170,9 @@ key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.stepup.toggle:key.keyboard.p
 key_key.unicopia.hud_page_dn:key.keyboard.page.down
 key_key.unicopia.hud_page_up:key.keyboard.page.up
-key_key.unicopia.primary:key.keyboard.r
+key_key.unicopia.primary:key.keyboard.f
 key_key.unicopia.secondary:key.keyboard.g
-key_key.unicopia.tertiary:key.keyboard.v
+key_key.unicopia.tertiary:key.keyboard.h
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
