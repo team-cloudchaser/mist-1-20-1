@@ -90,3 +90,9 @@ mode = "fancy"
 				cod = true
 				spider = true
 
+			[light_sources.settings.entities.promenade]
+				duck = true
+
+			[light_sources.settings.entities.unicopia]
+				butterfly = true
+

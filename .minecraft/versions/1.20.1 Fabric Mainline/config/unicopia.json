@@ -12,7 +12,7 @@
       "minecraft:creeper"
     ],
     // Allows use of the /tribe, /unicopia disguise, and /unicopia gravity commands,
-    "enablecheats": false
+    "enablecheats": true
   },
   "client": {
     // The default preferred race
@@ -29,7 +29,7 @@
   "compatibility": {
     // Removes butterflies from spawning in your world
     // Turn this ON if you have another mod that adds butterflies.
-    "disablebutterflyspawning": false,
+    "disablebutterflyspawning": true,
     // Disables this mod's built in fix for making sea plants waterlogged,
     // Turn this ON if you're using another mod that does something similar of if you encounter copatibility issues with other mods.,
     "disablewaterplantsfix": false

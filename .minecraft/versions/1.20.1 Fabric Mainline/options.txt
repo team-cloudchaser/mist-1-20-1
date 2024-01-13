@@ -124,7 +124,6 @@ key_key.firstperson.toggle:key.keyboard.f6
 key_key.namepain.showculled:key.keyboard.unknown
 key_nbttooltips.keybind:key.keyboard.left.alt
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.g
 key_key.autofish.open_gui:key.keyboard.v
 key_key.autorun.toggle:key.keyboard.o
 key_key.cardinalboats.prime_left:key.keyboard.left
