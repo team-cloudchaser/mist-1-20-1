@@ -43,7 +43,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
 resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","file/High Contrast Pottery 1.0.0.zip","file/sus sand 1.2.zip","minecraft:supporteatinganimation","armorchroma:alternative-icons","continuity:default","file/Glassentials_CTM.zip","continuity:glass_pane_culling_fix","seasons:seasonal_lush_caves"]
-incompatibleResourcePacks:["file/Yaju Sounds.zip","file/High Contrast Pottery 1.0.0.zip","armorchroma:alternative-icons","file/Glassentials_CTM.zip"]
+incompatibleResourcePacks:["file/High Contrast Pottery 1.0.0.zip","armorchroma:alternative-icons","file/Glassentials_CTM.zip"]
 lastServer:visit.uncensoredlibrary.com
 lang:en_gb
 soundDevice:""

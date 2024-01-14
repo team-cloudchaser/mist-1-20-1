@@ -91,6 +91,7 @@ mode = "fancy"
 				spider = true
 
 			[light_sources.settings.entities.promenade]
+				sunken_skeleton = true
 				duck = true
 
 			[light_sources.settings.entities.unicopia]
