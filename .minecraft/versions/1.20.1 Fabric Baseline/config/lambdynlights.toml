@@ -44,6 +44,7 @@ mode = "fancy"
 				item = true
 				turtle = true
 				salmon = true
+				wandering_trader = true
 				piglin_brute = true
 				ocelot = true
 				horse = true
@@ -59,6 +60,7 @@ mode = "fancy"
 				lightning_bolt = true
 				enderman = true
 				chicken = true
+				trader_llama = true
 				donkey = true
 				evoker_fangs = true
 				chest_minecart = true
@@ -85,15 +87,20 @@ mode = "fancy"
 				elder_guardian = true
 				boat = true
 				strider = true
+				polar_bear = true
 				painting = true
+				cave_spider = true
 				witch = true
 				cod = true
 				spider = true
 
 			[light_sources.settings.entities.promenade]
 				sunken_skeleton = true
+				capybara = true
 				duck = true
 
 			[light_sources.settings.entities.unicopia]
+				thrown_item = true
 				butterfly = true
+				air_balloon = true
 
