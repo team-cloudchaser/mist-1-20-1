@@ -82,6 +82,7 @@ mode = "fancy"
 				trident = true
 				villager = true
 				wolf = true
+				skeleton_horse = true
 				zombie_villager = true
 				block_display = true
 				elder_guardian = true
