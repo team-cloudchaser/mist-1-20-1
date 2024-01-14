@@ -1,0 +1,25 @@
+{
+    "1": {
+        "replace": false,
+        "items": [
+            "culinaire:dark_chocolate_bottle",
+            "culinaire:milk_chocolate_bottle",
+            "culinaire:white_chocolate_bottle",
+            "culinaire:salad",
+            "culinaire:lettuce"
+        ]
+    },
+    "3": {
+        "replace": false,
+        "items": [
+            "culinaire:tomato"
+        ]
+    },
+    "4": {
+        "replace": false,
+        "items": [
+            "culinaire:milk_bottle",
+            "culinaire:tea_bottle"
+        ]
+    }
+}

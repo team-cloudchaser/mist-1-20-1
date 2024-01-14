@@ -1,0 +1,16 @@
+{
+    "1": {
+        "replace": false,
+        "items": [
+            "promenade:blueberries",
+            "promenade:banana",
+            "promenade:apricot"
+        ]
+    },
+    "3": {
+        "replace": false,
+        "items": [
+            "promenade:mango"
+        ]
+    }
+}
