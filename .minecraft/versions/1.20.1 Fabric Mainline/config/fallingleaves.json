@@ -140,6 +140,16 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": true
+    },
+    "pearfection:flowering_callery_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "pearfection:callery_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],
