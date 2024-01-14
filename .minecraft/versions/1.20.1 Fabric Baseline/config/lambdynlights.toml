@@ -67,6 +67,7 @@ mode = "fancy"
 				fox = true
 				tropical_fish = true
 				slime = true
+				pillager = true
 				iron_golem = true
 				area_effect_cloud = true
 				zombified_piglin = true
@@ -104,4 +105,8 @@ mode = "fancy"
 				thrown_item = true
 				butterfly = true
 				air_balloon = true
+				floating_artefact = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
 
