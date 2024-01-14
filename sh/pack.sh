@@ -18,7 +18,8 @@ zip -r0v build/baseline.zip \
 	".minecraft/versions/1.20.1 Fabric Baseline/1.20.1 Fabric Baseline.jar" \
 	".minecraft/versions/1.20.1 Fabric Baseline/mods" \
 	".minecraft/versions/1.20.1 Fabric Baseline/resourcepacks" \
-	".minecraft/versions/1.20.1 Fabric Baseline/shaderpacks"
+	".minecraft/versions/1.20.1 Fabric Baseline/shaderpacks" \
+	".minecraft/versions/1.20.1 Fabric Baseline/dashloader-cache"
 zip -r9v build/baseline.zip \
 	".minecraft/versions/1.20.1 Fabric Baseline/config" \
 	".minecraft/versions/1.20.1 Fabric Baseline/1.20.1 Fabric Baseline.json" \
@@ -28,13 +29,10 @@ zip -r0v build/mainline.zip \
 	".minecraft/versions/1.20.1 Fabric Mainline/1.20.1 Fabric Mainline.jar" \
 	".minecraft/versions/1.20.1 Fabric Mainline/mods" \
 	".minecraft/versions/1.20.1 Fabric Mainline/resourcepacks" \
-	".minecraft/versions/1.20.1 Fabric Mainline/shaderpacks"
+	".minecraft/versions/1.20.1 Fabric Mainline/shaderpacks" \
+	".minecraft/versions/1.20.1 Fabric Mainline/dashloader-cache"
 zip -r9v build/mainline.zip \
 	".minecraft/versions/1.20.1 Fabric Mainline/config" \
 	".minecraft/versions/1.20.1 Fabric Mainline/1.20.1 Fabric Mainline.json" \
 	".minecraft/versions/1.20.1 Fabric Mainline/options.txt"
-echob "Bundling DashLoader caches..."
-zip -r9v build/baseline_dlc.zip \
-	".minecraft/versions/1.20.1 Fabric Baseline/dashloader-cache"
-zip -r9v build/mainline_dlc.zip \
-	".minecraft/versions/1.20.1 Fabric Mainline/dashloader-cache"
+exit
