@@ -11,7 +11,9 @@
     "com.minenash.seamless_loading_screen.FadeScreen": true,
     "com.minelittlepony.unicopia.client.gui.DismissSpellScreen": true,
     "interactic.ItemFilterScreen": true,
-    "io.github.lucaargolo.seasonsextras.client.screen.AirConditioningScreen": true
+    "io.github.lucaargolo.seasonsextras.client.screen.AirConditioningScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -21,6 +23,10 @@
     "fr.atesab.xray.screen.XrayConfigMenu": true,
     "fr.atesab.xray.screen.XrayMenu$2": true,
     "interactic.ItemFilterScreen": true,
-    "io.github.lucaargolo.seasonsextras.client.screen.AirConditioningScreen": true
+    "io.github.lucaargolo.seasonsextras.client.screen.AirConditioningScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "vazkii.patchouli.client.book.gui.GuiBookIndex": true
   }
 }
