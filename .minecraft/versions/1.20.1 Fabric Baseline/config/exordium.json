@@ -20,7 +20,7 @@
     "enabled": true,
     "maxFps": 30,
     "forceBlend": false,
-    "forceUpdates": false
+    "forceUpdates": true
   },
   "experienceSettings": {
     "enabled": true,

@@ -75,6 +75,7 @@ mode = "fancy"
 				piglin = true
 				cat = true
 				zombie = true
+				guardian = true
 				ghast = true
 				sheep = true
 				player = true
