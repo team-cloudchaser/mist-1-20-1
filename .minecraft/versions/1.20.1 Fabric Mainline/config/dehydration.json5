@@ -37,8 +37,8 @@
 	// Counted in ticks, 20 ticks = 1 second
 	"water_sip_thirst_duration": 600,
 	"allow_non_flowing_water_sip": false,
-	"sleep_thirst_consumption": 4,
-	"sleep_hunger_consumption": 2,
+	"sleep_thirst_consumption": 0,
+	"sleep_hunger_consumption": 0,
 	// boiling time in ticks
 	"water_boiling_time": 100,
 	// pump cooldown in ticks 0 = no cooldown
