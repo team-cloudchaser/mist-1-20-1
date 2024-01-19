@@ -1,14 +1,14 @@
 {
-    "1": {
-        "replace": false,
-        "items": [
-            "pearfection:copper_lampear"
-        ]
-    },
-    "2": {
-        "replace": false,
-        "items": [
-            "pearfection:lampear"
-        ]
-    }
+	"1": {
+		"replace": false,
+		"items": [
+			"pearfection:copper_lampear"
+		]
+	},
+	"2": {
+		"replace": false,
+		"items": [
+			"pearfection:lampear"
+		]
+	}
 }

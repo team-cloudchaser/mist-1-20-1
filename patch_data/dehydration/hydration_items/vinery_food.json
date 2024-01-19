@@ -1,0 +1,72 @@
+{
+	"1": {
+		"replace": false,
+		"items": [
+			"vinery:cherry"
+		]
+	},
+	"2": {
+		"replace": false,
+		"items": [
+			"vinery:red_grape",
+			"vinery:white_grape",
+			"vinery:savanna_grapes_red",
+			"vinery:savanna_grapes_white",
+			"vinery:taiga_grapes_red",
+			"vinery:taiga_grapes_white",
+			"vinery:jungle_grapes_red",
+			"vinery:jungle_grapes_white",
+			"vinery:apple_mash",
+			"vinery:apple_cider"
+		]
+	},
+	"3": {
+		"replace": false,
+		"items": [
+			"vinery:apple_wine"
+		]
+	},
+	"6": {
+		"replace": false,
+		"items": [
+			"vinery:noir_wine",
+			"vinery:red_wine",
+			"vinery:villagers_fright",
+			"vinery:cristel_wine",
+			"vinery:creepers_crush",
+			"vinery:bottle_mojang_noir",
+			"vinery:magnetic_wine",
+			"vinery:kelp_cider",
+			"vinery:aegis_wine",
+			"vinery:clark_wine",
+			"vinery:stal_wine",
+			"vinery:strad_wine",
+			"vinery:mellohi_wine"
+		]
+	},
+	"7": {
+		"replace": false,
+		"items": [
+			"vinery:cherry_wine",
+			"vinery:praetorian_wine",
+			"vinery:glowing_wine",
+			"vinery:eiswein",
+			"vinery:chorus_wine",
+			"vinery:chenet_wine"
+		]
+	},
+	"8": {
+		"replace": false,
+		"items": [
+			"vinery:bolvar_wine",
+			"vinery:solaris_wine",
+			"vinery:king_danis_wine"
+		]
+	}
+	"12": {
+		"replace": false,
+		"items": [
+			"vinery:jo_special_mixture"
+		]
+	}
+}

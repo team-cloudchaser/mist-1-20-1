@@ -1,17 +1,17 @@
 {
-    "1": {
-        "replace": false,
-        "items": [
-            "midashunger:golden_beetroot",
-            "midashunger:sweet_golden_berries",
-            "midashunger:golden_chorus_fruit",
-            "midashunger:enchanted_golden_carrot"
-        ]
-    },
-    "6": {
-        "replace": false,
-        "items": [
-            "midashunger:golden_beetroot_soup"
-        ]
-    }
+	"1": {
+		"replace": false,
+		"items": [
+			"midashunger:golden_beetroot",
+			"midashunger:sweet_golden_berries",
+			"midashunger:golden_chorus_fruit",
+			"midashunger:enchanted_golden_carrot"
+		]
+	},
+	"6": {
+		"replace": false,
+		"items": [
+			"midashunger:golden_beetroot_soup"
+		]
+	}
 }

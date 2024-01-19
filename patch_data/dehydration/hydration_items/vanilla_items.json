@@ -1,48 +1,48 @@
 {
-    "1": {
-        "replace": false,
-        "items": [
-            "minecraft:sweet_berries",
-            "minecraft:glow_berries",
-            "minecraft:golden_apple",
-            "minecraft:enchanted_golden_apple",
-            "minecraft:carrot",
-            "minecraft:golden_carrot",
-            "minecraft:chorus_fruit"
-        ]
-    },
-    "2": {
-        "replace": false,
-        "items": [
-            "minecraft:melon_slice",
-            "minecraft:apple"
-        ]
-    },
-    "3": {
-        "replace": false,
-        "items": [
-            "minecraft:melon_slice",
-            "minecraft:suspicious_stew",
-            "minecraft:mushroom_stew",
-            "minecraft:beetroot_soup"
-        ]
-    },
-    "4": {
-        "replace": false,
-        "items": [
-            "minecraft:potion"
-        ]
-    },
-    "6": {
-        "replace": false,
-        "items": [
-            "minecraft:rabbit_stew"
-        ]
-    },
-    "8": {
-        "replace": false,
-        "items": [
-            "minecraft:milk_bucket"
-        ]
-    }
+	"1": {
+		"replace": false,
+		"items": [
+			"minecraft:sweet_berries",
+			"minecraft:glow_berries",
+			"minecraft:golden_apple",
+			"minecraft:enchanted_golden_apple",
+			"minecraft:carrot",
+			"minecraft:golden_carrot",
+			"minecraft:chorus_fruit"
+		]
+	},
+	"2": {
+		"replace": false,
+		"items": [
+			"minecraft:melon_slice",
+			"minecraft:apple"
+		]
+	},
+	"3": {
+		"replace": false,
+		"items": [
+			"minecraft:melon_slice",
+			"minecraft:suspicious_stew",
+			"minecraft:mushroom_stew",
+			"minecraft:beetroot_soup"
+		]
+	},
+	"4": {
+		"replace": false,
+		"items": [
+			"minecraft:potion"
+		]
+	},
+	"6": {
+		"replace": false,
+		"items": [
+			"minecraft:rabbit_stew"
+		]
+	},
+	"8": {
+		"replace": false,
+		"items": [
+			"minecraft:milk_bucket"
+		]
+	}
 }

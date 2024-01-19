@@ -18,7 +18,7 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/lets-do-wine
 	// How many % of the normal wandering traders should be a wandering wine trader?
 	"wine_trader_chance": 25,
 	// Length of a year (in days).
-	"year_length_in_days": 14,
+	"year_length_in_days": 7,
 	// Years per effect level
 	"years_per_effect_level": 4
 }

@@ -1,0 +1,36 @@
+{
+	"1": {
+		"replace": false,
+		"items": [
+			"farmersdelight:cabbage",
+			"farmersdelight:bone_broth"
+		]
+	},
+	"2": {
+		"replace": false,
+		"items": [
+			"farmersdelight:apple_pie_slice"
+		]
+	},
+	"3": {
+		"replace": false,
+		"items": [
+			"farmersdelight:tomato",
+			"farmersdelight:sweet_berry_cheescake_slice"
+		]
+	},
+	"4": {
+		"replace": false,
+		"items": [
+			"farmersdelight:mixed_salad",
+			"farmersdelight:tomato_sauce",
+			"farmersdelight:glow_berry_custard"
+		]
+	},
+	"8": {
+		"replace": false,
+		"items": [
+			"farmersdelight:fruit_salad"
+		]
+	}
+}
