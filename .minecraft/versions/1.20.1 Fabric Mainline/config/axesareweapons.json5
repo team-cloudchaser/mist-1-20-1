@@ -11,6 +11,6 @@
 	"shovelsAreWeapons": false,
 	"hoesAreWeapons": false,
 	"rangedWeaponsAreWeapons": false,
-	"enableLootingForRangedWeapons": false,
+	"enableLootingForRangedWeapons": true,
 	"weaponIds": []
 }

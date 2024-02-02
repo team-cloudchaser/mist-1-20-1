@@ -33,7 +33,7 @@
 	min_chunk_tick_distance = 2
 	chunk_tick_distance_increment = 1
 	# (Default = [Max: 10, Min: 2, Increment: 1]) Distance in which the world will tick, similar to no-tick-vd.
-	max_simulation_distance = 10
+	max_simulation_distance = 8
 	min_simulation_distance = 2
 	simulation_distance_increment = 1
 	# (Default = [Max: 10, Min: 2, Increment: 1]) Distance in which the world will render.

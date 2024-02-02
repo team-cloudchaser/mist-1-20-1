@@ -7,16 +7,16 @@
 	"thirst_effect_factor": 0.05000000074505806,
 	"potion_thirst_quench": 4,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
-	"potion_bad_thirst_chance": 0.25,
+	"potion_bad_thirst_chance": 0,
 	// Counted in ticks, 20 ticks = 1 second
 	"potion_bad_thirst_duration": 300,
 	"milk_thirst_quench": 8,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
-	"milk_thirst_chance": 0.4000000059604645,
+	"milk_thirst_chance": 0,
 	"honey_quench": 1,
 	"water_bowl_quench": 3,
 	// 1.0F = 100%, 0.5F = 50%, 0.0F = 0%
-	"water_bowl_thirst_chance": 0.4000000059604645,
+	"water_bowl_thirst_chance": 0,
 	// Applies on items added to the drinks tag
 	"drinks_thirst_quench": 4,
 	"stew_thirst_quench": 3,
