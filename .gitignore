@@ -17,6 +17,8 @@ logs
 natives-*-*
 saves
 screenshots
+servers.dat
+servers.dat_old
 usercache.json
 # Mod loader-generated
 .bobby
@@ -28,6 +30,7 @@ null
 **/config/.puzzle_cache
 **/config/.puzzle_cache/*
 **/config/jade/usernamecache.json
+**/config/litematica
 **/config/spark/activity.json
 **/config/spark/tmp
 **/config/roughlyenoughitems/hints.json
@@ -35,6 +38,8 @@ null
 **/config/sound_physics_remastered/reflectivity.properties
 .earlyloadingscreen-*
 dashloader-cache
+deaths.dat
+DistantHorizons.sqlite
 irisUpdateInfo.json
 modernfix
 ModTranslations
