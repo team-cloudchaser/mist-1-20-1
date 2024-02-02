@@ -7,7 +7,7 @@
 		"village_waystone_weight": 2
 	},
 	"teleportation_cost": {
-		"cost_type": "LEVEL",
+		"cost_type": "ITEM",
 		"cost_item": "minecraft:ender_pearl",
 		"base_cost": 1,
 		"cost_per_block_distance": 0.0,
