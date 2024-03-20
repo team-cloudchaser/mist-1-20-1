@@ -2,7 +2,7 @@
 patch="data/dehydration/hydration_items"
 cd ".minecraft/versions/1.20.1 Fabric Mainline/mods"
 zip -r9 "dehydration-1.3.5.jar" "${patch}/vanilla_items.json"
-zip -r9 "Unicopia-1.2.2+1.20.1.jar" "${patch}/unicopia_food.json"
+zip -r9 "Unicopia-1.3.3+1.20.1.jar" "${patch}/unicopia_food.json"
 zip -r9 "midas-hunger-2.2.1+1.20.jar" "${patch}/midas_food.json"
 zip -r9 "culinaire-3.0.0.jar" "${patch}/culinaire_food.json"
 zip -r9 "promenade-4.1.1.jar" "${patch}/promenade_food.json"
